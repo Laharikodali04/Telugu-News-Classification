@@ -13,11 +13,13 @@ Both baseline ML and Transformer-based approaches are implemented.
 
 ## 📓 Project Notebooks
 1. **telugu_news_classification_baseline.ipynb**
+   - https://drive.google.com/file/d/1orcwOTWws2hZR4Be3uoLDJWAehdZzLOI/view?usp=sharing
    - Text preprocessing
    - TF-IDF feature extraction
    - Machine Learning classification models
 
-2. **telugu_news_classification_transformer.ipynb**
+3. **telugu_news_classification_transformer.ipynb**
+   - https://drive.google.com/file/d/1DFM1QMNj7ALLLASRjjsB9TYxXadqLllw/view?usp=sharing
    - Transformer-based Telugu news classification
    - Improved contextual understanding of Telugu text
 
@@ -52,5 +54,6 @@ Install required libraries and open notebooks using Jupyter Notebook or Google C
 
 ## 👩‍💻 Author
 **Lahari Kodali**
+
 
 
