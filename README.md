@@ -9,6 +9,7 @@ Both baseline ML and Transformer-based approaches are implemented.
 - train_telugu_news.csv
 - test_telugu_news.csv
 - The dataset contains Telugu news text along with category labels.
+- Dataset files are not included in the repository due to size limitations.
 
 ## 📓 Project Notebooks
 1. **telugu_news_classification_baseline.ipynb**
@@ -51,4 +52,5 @@ Install required libraries and open notebooks using Jupyter Notebook or Google C
 
 ## 👩‍💻 Author
 **Lahari Kodali**
+
 
